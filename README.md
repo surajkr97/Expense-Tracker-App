@@ -43,11 +43,11 @@ The Expense Tracker App has the following features:
 ## Usage
 
 When you open the app, you will see a home screen where you can add new expenses.
-Click on the "+" button at the bottom right corner of the screen to add a new expense.
+Click on the "+" button at the bottom of the screen to add a new expense.
 
-To view your expenses as a list, click on the "List" button at the bottom of the screen. To view your expenses as a bar graph, click on the "Graph" button.
+You can view your expenses at the top of the screen as a bar graph or you can view as a list also just below it.
 
-To delete an expense, swipe left on the expense in the list view and click on the delete button. To edit an expense, click on the expense in the list view and make your changes.
+To delete an expense, swipe left on the expense in the list view or can click on the delete button. To edit an expense, click on the expense in the list view and make your changes.
 
 
 
