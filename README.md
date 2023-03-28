@@ -10,7 +10,7 @@ To get started with the app, you can download the code from this Github reposito
 ### Prerequisites
 
 • Flutter 2.0 or higher<br>
-•Dart 2.12 or higher<br>
+• Dart 2.12 or higher<br>
 • Android Studio or Visual Studio Code<br>
 
 
